@@ -9,14 +9,14 @@ var switchTodarkMode = e =>{
     document.body.classList.toggle("dark-theme");
 
 
-    if(localStorage.getItem("theme" == "light")){
+    if(localStorage.getItem("theme") == "light"){
         localStorage.setItem("theme", "dark");
     }
     else{
         localStorage.setItem("theme", "light");
     }
 }
-if(localStorage.getItem("theme" == "light")){
+if(localStorage.getItem("theme") == "light"){
     switchMode.classList.remove("dark-mode-on");
     document.body.classList.remove("dark-theme");
 }
