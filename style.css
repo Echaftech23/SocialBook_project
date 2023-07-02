@@ -266,19 +266,19 @@ header{
     color: var(--text-font);
 }
 .story-1{
-    background-image: linear-gradient(transparent , rgba(0,0,0, 0.5)) , url("/images/rachid_echaf.png");
+    background-image: linear-gradient(transparent , rgba(0,0,0, 0.5)) , url("./images/rachid_echaf.png");
 }
 .story-2{
-    background-image: linear-gradient(transparent , rgba(0,0,0, 0.5)) , url("/images/status-2.png");
+    background-image: linear-gradient(transparent , rgba(0,0,0, 0.5)) , url("./images/status-2.png");
 }
 .story-3{
-    background-image: linear-gradient(transparent , rgba(0,0,0, 0.5)) , url("/images/status-3.png");
+    background-image: linear-gradient(transparent , rgba(0,0,0, 0.5)) , url("./images/status-3.png");
 }
 .story-4{
-    background-image: linear-gradient(transparent , rgba(0 , 0 ,0 , 0.5)) , url("/images/status-4.png");
+    background-image: linear-gradient(transparent , rgba(0 , 0 ,0 , 0.5)) , url("./images/status-4.png");
 }
 .story-5{
-    background-image: linear-gradient(transparent , rgba(0 , 0 ,0 , 0.5)) , url("/images/status-5.png");
+    background-image: linear-gradient(transparent , rgba(0 , 0 ,0 , 0.5)) , url("./images/status-5.png");
 }
 .write-post-container{
     background-color: var(--bg-color);
